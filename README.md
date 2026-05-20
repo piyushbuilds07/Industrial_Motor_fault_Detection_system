@@ -33,7 +33,7 @@ This project simulates **real industrial motor protection logic** used in:
 
 ## Complete Project Setup
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1b1b3c06-9593-4033-b743-fa44cbcec58b" />
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/1b1b3c06-9593-4033-b743-fa44cbcec58b" />
 
 
 ---
