@@ -279,7 +279,7 @@ This project demonstrates practical industrial scenarios:
 3rd Year ENTC Engineering Student  
 Embedded Systems | Hardware | Automation
 
-LinkedIn Profile : [My Linkedin Profile Link](https://www.linkedin.com/in/piyush-chinde-60423b29b/)
+[My Linkedin Profile Link](https://www.linkedin.com/in/piyush-chinde-60423b29b/)
 ---
 
 # ⭐ If you like this project
