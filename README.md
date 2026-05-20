@@ -33,19 +33,23 @@ This project simulates **real industrial motor protection logic** used in:
 
 ## Complete Project Setup
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1b1b3c06-9593-4033-b743-fa44cbcec58b" />
 
 
 ---
 
 ## Proteus Simulation
 
-![Simulation Image](UPLOAD_IMAGE_LINK_HERE)
+<img width="300" height="300" alt="Screenshot 2026-05-19 135435" src="https://github.com/user-attachments/assets/8ea2b342-d5e3-4bb9-83a1-02aa4496e8e6" />
+
 
 ---
 
 ## Serial Monitor Output
 
-<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/14bdb1d9-6168-43b9-8ff9-efe6d7f10621" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/14bdb1d9-6168-43b9-8ff9-efe6d7f10621" />
+<img width="1080" height="617" alt="image" src="https://github.com/user-attachments/assets/daea3c46-9b68-4db0-9412-08d8bd8f941d" />
+
 
 
 ---
