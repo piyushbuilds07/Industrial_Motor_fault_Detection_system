@@ -68,8 +68,6 @@ This project simulates **real industrial motor protection logic** used in:
 
 ✔ LED Status Indication
 
-✔ Buzzer Fault Alerts
-
 ✔ UART Serial Monitoring
 
 ✔ Industrial Fault Logic Implementation
@@ -83,12 +81,12 @@ This project simulates **real industrial motor protection logic** used in:
 | Component | Purpose |
 |-----------|----------|
 | ATmega328P | Main Microcontroller |
+| SMPS | 220V to 12V Generation for motor input |
 | LM35 | Temperature Sensor |
 | ACS712 | Current Sensor |
 | Relay Module | Motor Power Cutoff |
 | RS-555 DC Motor | Test Motor |
 | LEDs | Status Indication |
-| Buzzer | Fault Alert |
 | USBASP | Code Uploading |
 | Crystal Oscillator | Clock Generation |
 | Capacitors | Stability / Filtering |
