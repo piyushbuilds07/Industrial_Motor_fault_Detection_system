@@ -47,7 +47,7 @@ This project simulates **real industrial motor protection logic** used in:
 
 ## Serial Monitor Output
 
-<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/14bdb1d9-6168-43b9-8ff9-efe6d7f10621" />
+
 <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/daea3c46-9b68-4db0-9412-08d8bd8f941d" />
 
 
