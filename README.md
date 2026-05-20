@@ -204,18 +204,6 @@ Relay Control + Alerts
 
 ---
 
-# 🖼️ Block Diagram
-
-![Block Diagram](UPLOAD_IMAGE_LINK_HERE)
-
----
-
-# 🔌 Circuit Diagram
-
-![Circuit Diagram](UPLOAD_IMAGE_LINK_HERE)
-
----
-
 # 🧪 Proteus Simulation
 
 Project simulated using **Proteus Design Suite**.
@@ -228,12 +216,6 @@ Simulation includes:
 - RS-555 Motor
 - Relay Protection
 - UART Monitoring
-
----
-
-## Proteus Screenshot
-
-![Proteus Screenshot](UPLOAD_IMAGE_LINK_HERE)
 
 ---
 
