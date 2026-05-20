@@ -58,7 +58,7 @@ This project simulates **real industrial motor protection logic** used in:
 
 # 🎯 Features
 
-✔ Bare-Metal Programming (No Arduino / ESP Framework)
+✔ Bare-Metal Programming (No readymate Boards)
 
 ✔ Real-Time Current Monitoring
 
