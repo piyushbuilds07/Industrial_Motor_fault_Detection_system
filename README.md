@@ -177,11 +177,11 @@ Temperature ≥ Threshold
 
 Result:
 
-🔵 Blue LED ON
+🔴 Red LED ON
 
-🔵 Relay OFF
+🔴 Relay OFF
 
-🔵 Motor Shutdown
+🔴 Motor Protection Activated
 
 ---
 
