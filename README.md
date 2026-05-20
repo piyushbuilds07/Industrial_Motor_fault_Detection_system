@@ -262,36 +262,6 @@ This project demonstrates practical industrial scenarios:
 
 ---
 
-# 📂 Project Structure
-
-```text
-Project Folder
-│
-├── README.md
-├── Source Code
-├── Proteus Simulation
-├── Circuit Diagram
-├── Project Report
-├── PPT
-└── Images
-```
-
----
-
-# 📸 Hardware Images
-
-## PCB / Hardware Setup
-
-![Hardware Image](UPLOAD_IMAGE_LINK_HERE)
-
----
-
-## Sensor Connections
-
-![Sensor Setup](UPLOAD_IMAGE_LINK_HERE)
-
----
-
 # 🚀 Future Scope
 
 - IoT Dashboard Monitoring
@@ -309,10 +279,7 @@ Project Folder
 3rd Year ENTC Engineering Student  
 Embedded Systems | Hardware | Automation
 
-LinkedIn: YOUR_LINKEDIN_LINK
-
-GitHub: YOUR_GITHUB_LINK
-
+LinkedIn:[ YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/piyush-chinde-60423b29b)
 ---
 
 # ⭐ If you like this project
